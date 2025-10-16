@@ -1,0 +1,5 @@
+sqlalchemy
+pandas
+sqlite3
+pathlib
+path 
